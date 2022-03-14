@@ -1,1 +1,1 @@
-# freeCodeCamp-NewFlash
+![Project humbnail](./thumbnail.jpg)
